@@ -23,5 +23,8 @@ int main() {
     cout << "two boo" << endl;
   }
   
+  // challenge three: single-byte xor cipher
+  string s6 = "1b37373331363f78151b7f2b783431333d78397828372d363c78373e783a393b3736";
+  
   return 0;
 }
